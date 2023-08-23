@@ -15,39 +15,7 @@
                         "classList": "card__heading",
                         "children": [],
                         "text": "Card 1"
-                    },{
-                        "tag": "ul",
-                "classList": "",
-                "children": [
-                    {
-                        "tag": "li",
-                        "classList": "",
-                        "children": []
-                    },
-                    {
-                        "tag": "li",
-                        "classList": "",
-                        "children": []
-                    },
-                    {
-                        "tag": "li",
-                        "classList": "",
-                        "children": []
-                    },
-                    {
-                        "tag": "li",
-                        "classList": "",
-                        "children": []
-                    },
-                    {
-                        "tag": "li",
-                        "classList": "",
-                        "children": []
                     }
-                ]
-                    }
-                    
-
                 ]
             },
             {
