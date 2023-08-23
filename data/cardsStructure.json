@@ -1,0 +1,412 @@
+[
+    {
+        "root": true,
+        "tag": "article",
+        "classList": "card",
+        "children": [
+            {
+                "root": false,
+                "tag": "header",
+                "classList": "card__header",
+                "children": [
+                    {
+                        "root": false,
+                        "tag": "h1",
+                        "classList": "card__heading",
+                        "children": [],
+                        "text": "Card 1"
+                    },{
+                        "tag": "ul",
+                "classList": "",
+                "children": [
+                    {
+                        "tag": "li",
+                        "classList": "",
+                        "children": []
+                    },
+                    {
+                        "tag": "li",
+                        "classList": "",
+                        "children": []
+                    },
+                    {
+                        "tag": "li",
+                        "classList": "",
+                        "children": []
+                    },
+                    {
+                        "tag": "li",
+                        "classList": "",
+                        "children": []
+                    },
+                    {
+                        "tag": "li",
+                        "classList": "",
+                        "children": []
+                    }
+                ]
+                    }
+                    
+
+                ]
+            },
+            {
+                "tag": "div",
+                "classList": "",
+                "children": [
+                    {
+                        "tag": "section",
+                        "classList": "card__body",
+                        "children": [
+                            {
+                                "tag": "p",
+                                "classList": "",
+                                "children": [],
+                                "text": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "footer",
+                        "classList": "card__footer",
+                        "children": [
+                            {
+                                "tag": "button",
+                                "classList": "card__action",
+                                "children": [],
+                                "text": "Action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "root": true,
+        "tag": "article",
+        "classList": "card",
+        "children": [
+            {
+                "root": false,
+                "tag": "header",
+                "classList": "card__header",
+                "children": [
+                    {
+                        "root": false,
+                        "tag": "h1",
+                        "classList": "card__heading",
+                        "children": [],
+                        "text": "Card 2"
+                    }
+                ]
+            },
+            {
+                "tag": "div",
+                "classList": "",
+                "children": [
+                    {
+                        "tag": "section",
+                        "classList": "card__body",
+                        "children": [
+                            {
+                                "tag": "p",
+                                "classList": "",
+                                "children": [],
+                                "text": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "footer",
+                        "classList": "card__footer",
+                        "children": [
+                            {
+                                "tag": "button",
+                                "classList": "card__action",
+                                "children": [],
+                                "text": "Action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "root": true,
+        "tag": "article",
+        "classList": "card",
+        "children": [
+            {
+                "root": false,
+                "tag": "header",
+                "classList": "card__header",
+                "children": [
+                    {
+                        "root": false,
+                        "tag": "h1",
+                        "classList": "card__heading",
+                        "children": [],
+                        "text": "Card 3"
+                    }
+                ]
+            },
+            {
+                "tag": "div",
+                "classList": "",
+                "children": [
+                    {
+                        "tag": "section",
+                        "classList": "card__body",
+                        "children": [
+                            {
+                                "tag": "p",
+                                "classList": "",
+                                "children": [],
+                                "text": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "footer",
+                        "classList": "card__footer",
+                        "children": [
+                            {
+                                "tag": "button",
+                                "classList": "card__action",
+                                "children": [],
+                                "text": "Action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "root": true,
+        "tag": "article",
+        "classList": "card",
+        "children": [
+            {
+                "root": false,
+                "tag": "header",
+                "classList": "card__header",
+                "children": [
+                    {
+                        "root": false,
+                        "tag": "h1",
+                        "classList": "card__heading",
+                        "children": [],
+                        "text": "Card 4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "root": true,
+        "tag": "article",
+        "classList": "card",
+        "children": [
+            {
+                "root": false,
+                "tag": "header",
+                "classList": "card__header",
+                "children": [
+                    {
+                        "root": false,
+                        "tag": "h1",
+                        "classList": "card__heading",
+                        "children": [],
+                        "text": "Card 4"
+                    }
+                ]
+            },
+            {
+                "tag": "div",
+                "classList": "",
+                "children": [
+                    {
+                        "tag": "section",
+                        "classList": "card__body",
+                        "children": [
+                            {
+                                "tag": "p",
+                                "classList": "",
+                                "children": [],
+                                "text": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "footer",
+                        "classList": "card__footer",
+                        "children": [
+                            {
+                                "tag": "button",
+                                "classList": "card__action",
+                                "children": [],
+                                "text": "Action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "root": true,
+        "tag": "article",
+        "classList": "card",
+        "children": [
+            {
+                "root": false,
+                "tag": "header",
+                "classList": "card__header",
+                "children": [
+                    {
+                        "root": false,
+                        "tag": "h1",
+                        "classList": "card__heading",
+                        "children": [],
+                        "text": "Card 5"
+                    }
+                ]
+            },
+            {
+                "tag": "div",
+                "classList": "",
+                "children": [
+                    {
+                        "tag": "section",
+                        "classList": "card__body",
+                        "children": [
+                            {
+                                "tag": "p",
+                                "classList": "",
+                                "children": [],
+                                "text": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "footer",
+                        "classList": "card__footer",
+                        "children": [
+                            {
+                                "tag": "button",
+                                "classList": "card__action",
+                                "children": [],
+                                "text": "Action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "root": true,
+        "tag": "article",
+        "classList": "card",
+        "children": [
+            {
+                "root": false,
+                "tag": "header",
+                "classList": "card__header",
+                "children": [
+                    {
+                        "root": false,
+                        "tag": "h1",
+                        "classList": "card__heading",
+                        "children": [],
+                        "text": "Card 6"
+                    }
+                ]
+            },
+            {
+                "tag": "div",
+                "classList": "",
+                "children": [
+                    {
+                        "tag": "section",
+                        "classList": "card__body",
+                        "children": [
+                            {
+                                "tag": "p",
+                                "classList": "",
+                                "children": [],
+                                "text": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "footer",
+                        "classList": "card__footer",
+                        "children": [
+                            {
+                                "tag": "button",
+                                "classList": "card__action",
+                                "children": [],
+                                "text": "Action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "root": true,
+        "tag": "article",
+        "classList": "card",
+        "children": [
+            {
+                "root": false,
+                "tag": "header",
+                "classList": "card__header",
+                "children": [
+                    {
+                        "root": false,
+                        "tag": "h1",
+                        "classList": "card__heading",
+                        "children": [],
+                        "text": "Card 7"
+                    }
+                ]
+            },
+            {
+                "tag": "div",
+                "classList": "",
+                "children": [
+                    {
+                        "tag": "section",
+                        "classList": "card__body",
+                        "children": [
+                            {
+                                "tag": "p",
+                                "classList": "",
+                                "children": [],
+                                "text": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem"
+                            }
+                        ]
+                    },
+                    {
+                        "tag": "footer",
+                        "classList": "card__footer",
+                        "children": [
+                            {
+                                "tag": "button",
+                                "classList": "card__action",
+                                "children": [],
+                                "text": "Action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

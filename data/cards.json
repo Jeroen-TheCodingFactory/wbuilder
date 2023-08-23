@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Card 1",
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem",
+        "action": "Action"
+    },
+    {
+        "title": "Card 2",
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem",
+        "action": "Action"
+    },
+    {
+        "title": "Card 3",
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate veniam reiciendis vitae ab ullam sapiente ratione, autem",
+        "action": "Action"
+    }
+]
